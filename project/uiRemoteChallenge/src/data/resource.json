@@ -1,0 +1,13 @@
+{
+    "info" : {
+        "name" : "Site Locator"
+    },
+
+    "content" : {
+        "title" : "Where should I go to visit my favorite website, personally!?",
+        "form" : {
+            "title" : "Domain of the website to locate:",
+            "placeholder" : "type the URL here"
+        }
+    }
+}

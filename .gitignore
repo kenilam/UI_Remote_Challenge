@@ -1,0 +1,16 @@
+npm-debug.log
+
+automation/go_trends_scraper/json/
+automation/go_trends_scraper/node_modules/
+
+node_modules/
+bower_components/
+
+project/**/build/
+project/**/dev/
+project/**/src/lib/
+project/**/src/less/lib/
+project/**/src/less/fonts/
+project/**/src/data/*
+!project/**/src/data/resource.json
+/.idea/

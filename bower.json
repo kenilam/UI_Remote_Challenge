@@ -1,0 +1,19 @@
+{
+  "name": "UI_Remote_Challenge_Component",
+  "version": "0.0.0",
+  "directory": "lib",
+  "dependencies": {
+    "angular": "*",
+    "angular-animate": "*",
+    "angular-resource": "*",
+    "angular-route": "*",
+    "angular-sanitize": "*",
+    "angular-ui-router": "*",
+    "font-awesome": "*",
+    "html5shiv": "*",
+    "jQuery": "*",
+    "modernizr": "*",
+    "normalize-less": "*",
+    "underscore": "*"
+  }
+}

@@ -1,0 +1,43 @@
+{
+  "name": "UI_Remote_Challenge",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.scm.corp.ebay.com/EPIC/ebay_vis_kiosk.git"
+  },
+  "dependencies": {
+    "express": "3.x",
+    "gulp": "*",
+    "gulp-add-src": "*",
+    "gulp-autoprefixer": "*",
+    "gulp-bower": "*",
+    "gulp-bower-src": "*",
+    "gulp-changed": "*",
+    "gulp-clean": "*",
+    "gulp-concat": "*",
+    "gulp-debug": "*",
+    "gulp-expect-file": "*",
+    "gulp-filter": "0.4.1",
+    "gulp-ignore": "*",
+    "gulp-jsonminify": "*",
+    "gulp-less": "*",
+    "gulp-minify-css": "*",
+    "gulp-minify-html": "*",
+    "gulp-nodemon": "*",
+    "gulp-recess": "*",
+    "gulp-rename": "*",
+    "gulp-uglify": "*",
+    "gulp-usemin": "*",
+    "gulp-util": "*",
+    "gulp-watch": "*",
+    "less": "*",
+    "logger": "*",
+    "node-env-file": "~0.1.0",
+    "path": "*",
+    "request": "~2.16.6",
+    "walk": "*"
+  },
+  "devDependencies": {
+    "gulp": "^3.6.0"
+  }
+}
